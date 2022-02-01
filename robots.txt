@@ -1,2 +1,4 @@
-useragent: *
-sitemap: https://ainuvain.github.io/robots.txt
+Useragent: *
+Disallow: /assets/
+
+Sitemap: https://ainuvain.github.io/robots.txt
