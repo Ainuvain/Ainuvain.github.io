@@ -1,0 +1,2 @@
+useragent: *
+sitemap: https://ainuvain.github.io/robots.txt
