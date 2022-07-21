@@ -18,7 +18,7 @@ Committed is a challenge room in TryHackMe about accidental git commits. Link to
 
 We are provided a zip file of git repository and information that there has been a commit with sensitive information. 
 
-Starting with unzipping the `commited.zip` and then using extractor script from <a href="https://github.com/internetwache/GitTools/blob/master/Extractor/" target="_blank">GitTools</a> to restore the commits in `.git` 
+Starting with unzipping the `committed.zip` and then using extractor script from <a href="https://github.com/internetwache/GitTools/blob/master/Extractor/" target="_blank">GitTools</a> to restore the commits in `.git` 
 
 `./extractor.sh . commit`
 
