@@ -7,7 +7,7 @@ categories: writeups
 tags: git security tryhackme
 ---
 
-Committed is a challenge room in TryHackMe about accidental git commits. Link to the challenge [tryhackme.com/room/committed](https://tryhackme.com/room/committed)
+Committed is a challenge room in TryHackMe about accidental git commits. Link to the challenge: <a href="https://tryhackme.com/room/committed" target="_blank">tryhackme.com/room/committed</a>
 
 **Contents**
 * list
